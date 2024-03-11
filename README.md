@@ -14,7 +14,7 @@ This is a Checkbox FastAPI application for managing receipts.
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/fastapi-receipts.git
+git clone https://github.com/ArtemVdovyk/checkbox.git
 ```
 
 2. Navigate to the project directory:
